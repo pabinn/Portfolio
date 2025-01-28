@@ -16,6 +16,10 @@
   text-decoration: none;
   color: var(--color-text);
 }
+.logo {
+  width: 50px; /* or any size you want */
+  height: auto; /* to keep the aspect ratio */
+}
 
 
 .menuBtn {
