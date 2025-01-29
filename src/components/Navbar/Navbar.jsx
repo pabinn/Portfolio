@@ -11,7 +11,7 @@ export const Navbar = () => {
       <a className={styles.title} href="/">
       <img
         className={styles.logo} 
-        src={getImageUrl("nav/icon.png")}
+        src={getImageUrl("nav/logop.png")}
         alt="Pabin Logo"
   />    
       </a>
