@@ -1,28 +1,26 @@
 [
   {
-    "role": " Jr. Developer",
+    "role": " Graphic Designer Intern",
     "organisation": "Stellar Tech ",
-    "startDate": "Sept, 2019",
-    "endDate": "August, 2020",
+    "startDate": "July, 2024",
+    "endDate": "Dec, 2024",
     "experiences": [],
     "imageSrc": "history/stellar.png"
   },
   {
-    "role": "Sr. Developer",
-    "organisation": "Stellar Tech",
-    "startDate": "August, 2020",
+    "role": "Jr. Graphic Designer",
+    "organisation": "Pokhara Youth Council ",
+    "startDate": "Jan, 2025",
     "endDate": "Present",
     "experiences": [],
-    "imageSrc": "history/stellar.png"
+    "imageSrc": "history/pycc.png"
   },
   {
-    "role": "Chief Marketing Officer",
-    "organisation": "Stellar Tech ",
-    "startDate": "August, 2020",
+    "role": "UI/UX Designer",
+    "organisation": "Freelance ",
+    "startDate": "Jan, 2025",
     "endDate": "Present",
-    "experiences": [
-      
-    ],
-    "imageSrc": "history/stellar.png"
+    "experiences": [],
+    "imageSrc": "history/freelancer-1.svg"
   }
 ]
